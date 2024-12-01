@@ -1,1 +1,1 @@
-#ajs-5
+[![Build status](https://ci.appveyor.com/api/projects/status/bhbty7152ked5abu?svg=true)](https://ci.appveyor.com/project/yuriytuk/ajs-5)
